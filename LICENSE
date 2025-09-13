@@ -5,41 +5,41 @@ Projekt-URL: https://github.com/Open-Autonomous-Connection/
 ---
 
 1. Nutzungsrechte
-Diese Software darf sowohl für **private als auch kommerzielle Zwecke** genutzt werden. Die Nutzung ist unter den Bedingungen dieser Lizenz gestattet.
+Diese Software darf sowohl für private als auch kommerzielle Zwecke genutzt werden. Die Nutzung ist unter den Bedingungen dieser Lizenz gestattet.
 
 ---
 
 2. Verkaufsverbot
-Es ist **nicht gestattet**, diese Software oder abgeleitete Werke davon **zu verkaufen oder kommerziell zu vertreiben**.
+Es ist nicht gestattet, diese Software oder abgeleitete Werke davon **zu verkaufen oder kommerziell zu vertreiben**.
 Dies umfasst auch jede Form der direkten oder indirekten Monetarisierung der Software selbst.
 Eine kommerzielle Nutzung im Rahmen von Dienstleistungen ist zulässig, solange die Software selbst kostenlos bleibt.
 
 ---
 
 3. Offenlegung des Quellcodes
-Die Software ist **dauerhaft quelloffen**. Der **vollständige Quellcode** muss bei jeder Verbreitung, auch in geänderter Form, **mitgeliefert oder öffentlich zugänglich** gemacht werden.
-Jede Version, auch veränderte, muss einen **klar sichtbaren Verweis auf das Originalprojekt enthalten**:
+Die Software ist dauerhaft quelloffen. Der vollständige Quellcode muss bei jeder Verbreitung, auch in geänderter Form, mitgeliefert oder öffentlich zugänglich gemacht werden.
+Jede Version, auch veränderte, muss einen klar sichtbaren Verweis auf das Originalprojekt enthalten:
 → https://github.com/Open-Autonomous-Connection/
 
 ---
 
 4. Weitergabe & Lizenzvererbung
-Die Software darf frei **kopiert, verteilt und verändert** werden, unter folgenden Bedingungen:
+Die Software darf frei kopiert, verteilt und verändert werden, unter folgenden Bedingungen:
 
-- Die **Original-Lizenz (OAPL v1.0)** muss vollständig und unverändert mitgeliefert werden.
-- Alle Änderungen am Quellcode müssen **klar kenntlich gemacht werden** (z. B. durch Kommentare oder Änderungsprotokolle).
-- Abgeleitete Werke müssen unter **derselben Lizenz (OAPL v1.0)** veröffentlicht werden.
-- Es dürfen **keine zusätzlichen Einschränkungen** oder Bedingungen auferlegt werden, die den Bedingungen dieser Lizenz widersprechen.
+- Die Original-Lizenz (OAPL v1.0) muss vollständig und unverändert mitgeliefert werden.
+- Alle Änderungen am Quellcode müssen klar kenntlich gemacht werden (z. B. durch Kommentare oder Änderungsprotokolle).
+- Abgeleitete Werke müssen unter derselben Lizenz (OAPL v1.0) veröffentlicht werden.
+- Es dürfen keine zusätzlichen Einschränkungen oder Bedingungen auferlegt werden, die den Bedingungen dieser Lizenz widersprechen.
 
 ---
 
 5. Keine proprietäre Nutzung
-Die Software oder ihre abgeleiteten Werke dürfen **nicht in proprietäre oder geschlossene Software eingebunden** oder unter einer nicht-kompatiblen Lizenz weitergegeben werden.
+Die Software oder ihre abgeleiteten Werke dürfen nicht in proprietäre oder geschlossene Software eingebunden oder unter einer nicht-kompatiblen Lizenz weitergegeben werden.
 
 ---
 
 6. Keine Veränderung dieser Lizenz
-Diese Lizenz darf **nicht verändert** oder durch andere Lizenzen ersetzt werden. Eine Modifikation oder Re-Lizenzierung ist ausdrücklich untersagt.
+Diese Lizenz darf nicht verändert oder durch andere Lizenzen ersetzt werden. Eine Modifikation oder Re-Lizenzierung ist ausdrücklich untersagt.
 
 ---
 
