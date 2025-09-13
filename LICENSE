@@ -1,0 +1,49 @@
+Open Autonomous Public License (OAPL) – Version 1.0
+Copyright (C) 2024-2025 Open Autonomous Connection (OAC) 
+https://github.com/Open-Autonomous-Connection/
+
+Präambel
+Diese Lizenz erlaubt die private und kommerzielle Nutzung dieser Software unter der Bedingung,
+dass sie nicht verkauft, aber immer frei und offen weitergegeben, mit Quellcode veröffentlicht, und niemals in geschlossener (proprietärer) Form verbreitet wird.
+Ziel ist es, eine freie und transparente Weiterentwicklung der Software dauerhaft zu sichern.
+
+1. Nutzungsrechte
+Du darfst dieses Programm:
+privat und kommerziell nutzen,
+kopieren, weitergeben und verbreiten,
+modifizieren und weiterentwickeln,
+sofern du alle Bedingungen dieser Lizenz einhältst.
+
+2. Verkaufsverbot
+Es ist nicht erlaubt, diese Software oder abgeleitete Werke direkt oder indirekt zu verkaufen.
+Eine kommerzielle Nutzung (z. B. im Rahmen von Dienstleistungen) ist erlaubt, aber die Software selbst muss kostenlos bleiben.
+
+3. Offenlegung des Quellcodes
+Der vollständige Quellcode muss immer mit jeder Kopie oder Veröffentlichung mitgeliefert oder öffentlich zugänglich gemacht werden.
+Dies gilt für das Originalprogramm sowie alle modifizierten oder abgeleiteten Versionen.
+Der Quellcode muss in einem offenen Format bereitgestellt werden.
+Jede Veröffentlichung muss einen klar sichtbaren Link zur offiziellen GitHub-Organisation enthalten:
+https://github.com/Open-Autonomous-Connection/
+
+4. Modifikationen
+Änderungen am Programm sind erlaubt, aber alle Änderungen müssen klar gekennzeichnet werden (z. B. durch Kommentare im Quellcode oder eine Änderungsübersicht).
+Modifizierte Versionen müssen unter dieser gleichen Lizenz weitergegeben werden.
+Es ist nicht erlaubt, diese Lizenz zu verändern oder zu ersetzen.
+
+5. Weitergabe
+Jeder darf diese Software frei weitergeben (auch in geänderter Form).
+Es ist nicht erlaubt, anderen Personen die Weitergabe oder Änderung dieser Software zu verbieten.
+Die Lizenz muss immer vollständig mitgeliefert werden.
+
+6. Kein Ausschluss der Bedingungen
+Du darfst keine zusätzlichen Bedingungen oder Einschränkungen hinzufügen, die die in dieser Lizenz gewährten Rechte einschränken.
+
+7. Haftungsausschluss („as-is“)
+DIE SOFTWARE WIRD OHNE JEGLICHE GARANTIE ZUR VERFÜGUNG GESTELLT.
+SIE WIRD "AS IS" BEREITGESTELLT, OHNE AUSDRÜCKLICHE ODER IMPLIZIERTE GARANTIEN,
+EINSCHLIESSLICH ABER NICHT BESCHRÄNKT AUF DIE GARANTIEN DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND DER NICHTVERLETZUNG VON RECHTEN DRITTER.
+DIE NUTZUNG DER SOFTWARE ERFOLGT AUF EIGENE GEFAHR. DER AUTOR HAFTET NICHT FÜR SCHÄDEN, DIE AUS DER NUTZUNG ODER UNMÖGLICHKEIT DER NUTZUNG ENTSTEHEN.
+
+8. Sonstiges
+Diese Lizenz kann nicht aufgehoben oder durch eine andere ersetzt werden.
+Sie gilt für das gesamte Programm und alle daraus abgeleiteten Werke.
