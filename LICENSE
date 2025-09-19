@@ -12,7 +12,8 @@ Diese Software darf sowohl für private als auch kommerzielle Zwecke genutzt wer
 2. Verkaufsverbot
 Es ist nicht gestattet, diese Software oder abgeleitete Werke davon zu verkaufen oder kommerziell zu vertreiben.
 Dies umfasst auch jede Form der direkten oder indirekten Monetarisierung der Software selbst.
-Eine kommerzielle Nutzung im Rahmen von Dienstleistungen ist zulässig, solange die Software selbst kostenlos bleibt.
+Es ist gestattet, die Software im Rahmen von Dienstleistungen kommerziell zu nutzen, solange der Quellcode und die Originaldateien kostenlos verfügbar bleiben und nicht gegen Entgelt verkauft oder monetarisiert werden.
+Jede Form der Monetarisierung der Software selbst, wie der Verkauf oder die Lizenzierung der Software, ist untersagt.
 
 ---
 
@@ -28,13 +29,14 @@ Die Software darf frei kopiert, verteilt und verändert werden, unter folgenden 
 
 - Die Original-Lizenz (OAPL v1.0) muss vollständig und unverändert mitgeliefert werden.
 - Alle Änderungen am Quellcode müssen klar kenntlich gemacht werden (z. B. durch Kommentare oder Änderungsprotokolle).
-- Abgeleitete Werke müssen unter derselben Lizenz (OAPL v1.0) veröffentlicht werden.
+- Abgeleitete Werke müssen unter derselben Lizenz (OAPL v1.0) veröffentlicht werden, es sei denn, die Lizenzierung erfolgt in einem Kontext,
+  in dem dies durch geltendes Recht oder technische Einschränkungen nicht möglich ist. In     diesem Fall muss der Quellcode der Änderungen weiterhin offen und zugänglich gemacht werden.
 - Es dürfen keine zusätzlichen Einschränkungen oder Bedingungen auferlegt werden, die den Bedingungen dieser Lizenz widersprechen.
 
 ---
 
 5. Keine proprietäre Nutzung
-Die Software oder ihre abgeleiteten Werke dürfen nicht in proprietäre oder geschlossene Software eingebunden oder unter einer nicht-kompatiblen Lizenz weitergegeben werden.
+Die Software oder ihre abgeleiteten Werke dürfen nicht in proprietäre Software integriert oder unter einer Lizenz weitergegeben werden, die die Bedingungen dieser Lizenz einschränkt oder die Offenlegung des Quellcodes unterlässt.
 
 ---
 
@@ -44,14 +46,16 @@ Diese Lizenz darf nicht verändert oder durch andere Lizenzen ersetzt werden. Ei
 ---
 
 7. Haftungsausschluss ("as-is")
-DIE SOFTWARE WIRD OHNE JEGLICHE GARANTIE BEREITGESTELLT.
-SIE WIRD „WIE BESEHEN“ („AS IS“) ZUR VERFÜGUNG GESTELLT, OHNE AUSDRÜCKLICHE ODER IMPLIZIERTE GARANTIEN, EINSCHLIESSLICH, ABER NICHT BESCHRÄNKT AUF GARANTIEN DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND DER NICHTVERLETZUNG VON RECHTEN DRITTER.
-DIE NUTZUNG DER SOFTWARE ERFOLGT AUF EIGENE GEFAHR. DIE AUTORINNEN UND AUTOREN HAFTEN NICHT FÜR SCHÄDEN, DIE AUS DER NUTZUNG ODER DER UNMÖGLICHKEIT DER NUTZUNG DER SOFTWARE ENTSTEHEN.
+DIE SOFTWARE WIRD 'WIE BESEHEN' BEREITGESTELLT, OHNE AUSDRÜCKLICHE ODER IMPLIZIERTE GARANTIEN, EINSCHLIESSLICH, ABER NICHT BESCHRÄNKT AUF GARANTIEN DER MARKTGÄNGIGKEIT,
+DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND DER NICHTVERLETZUNG VON RECHTEN DRITTER. SOWEIT ES GESCHÄFTSRECHTLICH ZULÄSSIG IST,
+WIRD DIE HAFTUNG DER AUTOREN FÜR SCHÄDEN ODER VERLUSTE AUFGRUND DER NUTZUNG DER SOFTWARE AUSGESCHLOSSEN.
 
 ---
 
 8. Salvatorische Klausel
-Sollte eine Bestimmung dieser Lizenz unwirksam oder undurchsetzbar sein, bleiben die übrigen Bestimmungen davon unberührt.
+Sollte eine Bestimmung dieser Lizenz als unwirksam, undurchsetzbar oder nicht durchsetzbar erklärt werden,
+bleibt die Gültigkeit der übrigen Bestimmungen davon unberührt. In diesem Fall wird die unwirksame Klausel durch eine wirksame und durchsetzbare Bestimmung ersetzt,
+die dem ursprünglichen wirtschaftlichen Zweck der unwirksamen Bestimmung am nächsten kommt.
 
 ---
 
